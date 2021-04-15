@@ -8,9 +8,9 @@ string interpretador(string msg, int nFragmentos);
 int encontraNumeroFragmentos(string msg);
 
 int main() {
-  string msg = "90c87esd67uj,./';*&^120lin87uj101gu87km102a77jh150gem..&";
+  // string msg = "90c87esd67uj,./';*&^120lin87uj101gu87km102a77jh150gem..&";
 
-  // string msg = "*(12*23qualquer130i120n87j102t87ejh104er*&^_)(105n7k122e33kw140t**";
+  string msg = "*(12*23qualquer130i120n87j102t87ejh104er*&^_)(105n7k122e33kw140t**";
 
   cout << msg << endl;
   
